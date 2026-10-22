@@ -3,7 +3,7 @@
 
 26.2 Minecraft Required.
 
-Install Fabric Loader First
+`Install Essential Mod Fabric Loader First`
 
 Drag and drop the mods folder into your fabric 26.2 folder in `\.minecraft\installations\26.2 Fabric Essential\mods`
 
